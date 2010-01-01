@@ -7,4 +7,6 @@
    rake --tasks
 
 ** Rake Namespaces
-   Namespaces allow you to group tasks according to category, and YES, you can have more than one namespace inside a Rakefile.
+   "Namespaces allow you to group tasks according to category, and YES, you can have more than one namespace inside a Rakefile."
+
+
