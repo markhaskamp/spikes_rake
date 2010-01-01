@@ -1,0 +1,5 @@
+
+** How do I domcument my rake tasks
+   rake -T
+   or
+   rake --tasks
