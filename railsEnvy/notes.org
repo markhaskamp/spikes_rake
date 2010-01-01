@@ -1,5 +1,10 @@
+* Ruby on Rails Rake Tutorial
+  [[http://railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial][rails envy]]
 
 ** How do I domcument my rake tasks
    rake -T
    or
    rake --tasks
+
+** Rake Namespaces
+   Namespaces allow you to group tasks according to category, and YES, you can have more than one namespace inside a Rakefile.
