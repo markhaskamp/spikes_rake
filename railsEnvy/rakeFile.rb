@@ -1,3 +1,4 @@
+task :default => "alcoholic:getSmashed"
 
 namespace :alcoholic do
 
