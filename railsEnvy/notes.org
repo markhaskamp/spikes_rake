@@ -1,7 +1,7 @@
 * Ruby on Rails Rake Tutorial
   [[http://railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial][rails envy]]
 
-** How do I domcument my rake tasks
+** How do I document my rake tasks
    rake -T
    or
    rake --tasks
