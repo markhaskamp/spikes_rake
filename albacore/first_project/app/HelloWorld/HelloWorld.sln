@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{50709E20-9777-4FA6-AE0B-A4717060C233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld_Test", "..\..\test\HelloWorld_Test\HelloWorld_Test.csproj", "{B9794C66-1ADC-41B1-9110-25A7BD8BD8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50709E20-9777-4FA6-AE0B-A4717060C233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50709E20-9777-4FA6-AE0B-A4717060C233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50709E20-9777-4FA6-AE0B-A4717060C233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50709E20-9777-4FA6-AE0B-A4717060C233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9794C66-1ADC-41B1-9110-25A7BD8BD8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9794C66-1ADC-41B1-9110-25A7BD8BD8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9794C66-1ADC-41B1-9110-25A7BD8BD8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9794C66-1ADC-41B1-9110-25A7BD8BD8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
