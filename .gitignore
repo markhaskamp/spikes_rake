@@ -11,3 +11,4 @@ build/
 _ReSharper.*/
 *.user
 TestResults/
+albacore/first_project/bld/TestResult.xml
