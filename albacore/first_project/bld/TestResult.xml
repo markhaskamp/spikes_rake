@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="../test/HelloWorld_Test/bin/Debug/HelloWorld_Test.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-05-01" time="23:36:21">
-  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="c:\a_dev\spikes\rake\first_project\build" machine-name="PINNSG17-PC" user="pinnsg17" user-domain="pinnsg17-PC" />
+<test-results name="../test/HelloWorld_Test/bin/Debug/HelloWorld_Test.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-05-06" time="21:51:08">
+  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="c:\a_dev\spikes\spikes_rake\albacore\first_project\bld" machine-name="PINNSG17-PC" user="pinnsg17" user-domain="pinnsg17-PC" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
   <test-suite type="Assembly" name="../test/HelloWorld_Test/bin/Debug/HelloWorld_Test.dll" executed="True" result="Success" success="True" time="0.092" asserts="0">
     <results>
@@ -9,7 +9,7 @@
         <results>
           <test-suite type="TestFixture" name="Class1" executed="True" result="Success" success="True" time="0.070" asserts="0">
             <results>
-              <test-case name="HelloWorld_Test.Class1.The_First_Test" executed="True" result="Success" success="True" time="0.041" asserts="1" />
+              <test-case name="HelloWorld_Test.Class1.The_First_Test" executed="True" result="Success" success="True" time="0.042" asserts="1" />
               <test-case name="HelloWorld_Test.Class1.The_Second_Test" executed="True" result="Success" success="True" time="0.002" asserts="1" />
             </results>
           </test-suite>

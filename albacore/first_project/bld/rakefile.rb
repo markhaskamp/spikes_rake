@@ -2,9 +2,9 @@
 require 'albacore'
 
 @project_home_dir = '..';
-@app_dir      = sprintf("%s/%s", @project_home_dir, "app");
-@test_dir     = sprintf("%s/%s", @project_home_dir, "test");
-@devtools_dir = sprintf("%s/%s", @project_home_dir, "devtools");
+@app_dir      = "#{@project_home_dir}/app"
+@test_dir     = "#{@project_home_dir}/test"
+@devtools_dir = "#{@project_home_dir}/devtools";
 
 task :default => [:msbuild, :unittests]
 
